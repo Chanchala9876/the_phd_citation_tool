@@ -58,7 +58,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/phd-citation-tool.git
+git clone https://github.com/Chanchala9876/the_phd_citation_tool.git
 cd phd-citation-tool
 Install dependencies:
 
